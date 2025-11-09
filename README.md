@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola, bienvenido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div style="display:relative; border:1px red solid">
-  <img src="" width="375"  alt=""/>
+<div>
+  <img src="" width="150" height="150"  alt=""/>
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Perfil+de+Kleiver+Moreno..;Programador+en:;PHP,+JS,+VB,+Python,+Cpp;+adaptabilidad+a+lenguajes+de+programación"></a>
