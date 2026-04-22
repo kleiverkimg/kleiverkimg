@@ -1,0 +1,77 @@
+[
+    {
+        "id": "38572556-e01c-4727-b496-5f05a23d19f4",
+        "name": "Bioética y Bioseguridad",
+        "uc": 4
+    },
+    {
+        "id": "dfc23e2b-f38a-4abb-bf73-d6eefb8a2a2e",
+        "name": "Educación Física, Deporte y Recreación",
+        "uc": 4
+    },
+    {
+        "id": "e4f0c0a2-25e1-41bf-843e-7ea6d56de707",
+        "name": "Elementos de la Matemática",
+        "uc": 4
+    },
+    {
+        "id": "866390ce-57c3-4e08-a8c8-fabad1af2a40",
+        "name": "Filosofía Antigua",
+        "uc": 4
+    },
+    {
+        "id": "cf5e9cd0-6880-4240-add6-13b4ba63e35c",
+        "name": "Filosofía de la Ciencia",
+        "uc": 4
+    },
+    {
+        "id": "c9ddb560-34ee-47d1-8e06-4355143ae0ea",
+        "name": "Física I",
+        "uc": 4
+    },
+    {
+        "id": "d737d27f-927d-4f7d-a3e3-63c9f52ca6eb",
+        "name": "Fundamentos Estructuras y Algoritmos",
+        "uc": 4
+    },
+    {
+        "id": "075b5214-b4da-447c-a656-2fb185278369",
+        "name": "Inglés Aplicado a la Ciberseguridad",
+        "uc": 4
+    },
+    {
+        "id": "d8ad5fee-5fa5-40bd-9735-4781cc4dabc7",
+        "name": "Introducción a la Carrera",
+        "uc": 4
+    },
+    {
+        "id": "57f1bdfd-00b4-4780-b4df-75c8544eb351",
+        "name": "Lógica y Algoritmo",
+        "uc": 4
+    },
+    {
+        "id": "0b638ff8-efe6-42b8-9434-d7936af59bbc",
+        "name": "Matemática I",
+        "uc": 5
+    },
+    {
+        "id": "b5623ed8-6d02-4a94-ac6a-0fc383581f92",
+        "name": "Matemática II",
+        "uc": 5
+    },
+    {
+        "id": "7515b798-4b1d-4b18-80c5-7420cbb43044",
+        "name": "Pensamiento Crítico y Comunicación Linguistica",
+        "uc": 4
+    },
+    {
+        "id": "ced159bc-dae4-4a0e-a3cc-0a51ff9fe6fa",
+        "name": "Programación",
+        "uc": 4
+    },
+    {
+        "id": "d2965bd1-1742-40f1-b7c2-0e0332d3c1c0",
+        "name": "Química General",
+        "uc": 5
+    }
+]
