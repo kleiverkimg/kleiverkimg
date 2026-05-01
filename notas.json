@@ -430,7 +430,7 @@
         "MODULO I": 19.25,
         "MODULO II": 19.35,
         "MODULO III": 20,
-        "MODULO IV": 20,
+        "MODULO IV": "",
         "SEXO": "Masculino"
     },
     {
@@ -2319,8 +2319,8 @@
         "ASIGNATURA": "Matemática I",
         "MODULO I": 14.85,
         "MODULO II": 14.78,
-        "MODULO III": "",
-        "MODULO IV": "",
+        "MODULO III": 20,
+        "MODULO IV": 20,
         "SEXO": "Femenino"
     },
     {
